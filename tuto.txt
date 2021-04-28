@@ -1,0 +1,42 @@
+1. Create new cosmos DB
+https://docs.microsoft.com/fr-fr/azure/cosmos-db/create-cosmosdb-resources-portal
+
+2. Go to Data Explorer
+
+3. Add collection, follow the stepf from the same tuto
+
+4.
+
+
+
+{
+	"_id" : ObjectId("60893069ea54be15a85267fe"),
+	"id" : "1",
+	"category" : "personal",
+	"name" : "groceries",
+	"description" : "Pick up apples and strawberries.",
+	"isComplete" : false
+}
+{
+	"_id" : ObjectId("608930add438181ed0561af1"),
+	"id" : "2",
+	"category" : "personal",
+	"name" : "cleaning",
+	"description" : "Clean the flat.",
+	"isComplete" : false
+}
+
+{
+	"_id" : ObjectId("608930d7d438181ed0561af2"),
+	"id" : "3",
+	"category" : "personal",
+	"name" : "yoga",
+	"description" : "Take care of your back.",
+	"isComplete" : false
+}
+
+        "id": "5",
+        "category": "personal",
+        "name": "take it easy",
+        "description": "Just relaaaaax",
+        "isComplete": false
