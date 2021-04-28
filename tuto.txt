@@ -40,3 +40,4 @@ https://docs.microsoft.com/fr-fr/azure/cosmos-db/create-cosmosdb-resources-porta
         "name": "take it easy",
         "description": "Just relaaaaax",
         "isComplete": false
+
