@@ -3,11 +3,13 @@ https://docs.microsoft.com/fr-fr/azure/cosmos-db/create-cosmosdb-resources-porta
 
 2. Go to Data Explorer
 
-3. Add collection, follow the stepf from the same tuto
+3. Add collection, follow the steps from the same tuto
 
-4.
+4. Prepare JSON to run tests
 
+5. Remember in Azure: You put your VMs and CosmosDB to the same Network, remember to open Cosmos DB port 10255
 
+6. Connect to Cosmos using connection string provided in Quick Start of CosmosDB, script check in server.js
 
 {
 	"_id" : ObjectId("60893069ea54be15a85267fe"),
